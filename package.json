@@ -1,14 +1,40 @@
 {
-  "name": "expokit",
-  "version": "32.1.2",
+  "_from": "expokit",
+  "_id": "expokit@32.1.2",
+  "_inBundle": false,
+  "_integrity": "sha512-NwK13vKc0GmzxrqNE7IAZ45TjnpPW7oD75JMRkNB2kCbpAm/1iKP7p2RTQPhl4fTNh/ROtRwpPIsL0w3cdMMAg==",
+  "_location": "/expokit",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "tag",
+    "registry": true,
+    "raw": "expokit",
+    "name": "expokit",
+    "escapedName": "expokit",
+    "rawSpec": "",
+    "saveSpec": null,
+    "fetchSpec": "latest"
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/expokit/-/expokit-32.1.2.tgz",
+  "_shasum": "872524e92d7e49aefa953a9f869fe10b553ee132",
+  "_spec": "expokit",
+  "_where": "G:\\p\\expokit",
+  "author": "",
+  "bundleDependencies": false,
+  "dependencies": {
+    "jsc-android": "^224109.1.0"
+  },
+  "deprecated": false,
   "description": "",
+  "license": "MIT",
   "main": "index.js",
+  "name": "expokit",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "",
-  "license": "MIT",
-  "dependencies": {
-    "jsc-android": "^224109.1.0"
-  }
+  "version": "32.1.2"
 }
